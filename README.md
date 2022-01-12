@@ -2,9 +2,7 @@
 
 ## What I intend to make
 
-We’re going to make a weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). By the end of the module, you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
+I am going to make a weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). By the end of the module, you'll be able to find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
 ## What I will learn
 
@@ -19,5 +17,3 @@ We’re going to make a weather app inspired by the beautiful designs made by [O
 - Learn about the lifecycle of Stateful Widgets and how to override them.
 - How to use the Geolocator package to get live location data for both iOS and Android.
 - How to use the TextField Widget to take user input.
-
-
